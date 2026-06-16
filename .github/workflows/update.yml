@@ -2,10 +2,10 @@ name: Actualizar resultados del Mundial
 
 on:
   schedule:
-    # Cada 1 minuto. OJO: GitHub Actions recomienda minimo 5 min; a 1 min
-    # puede saltearse o agrupar corridas en horarios de mucha carga, asi que
-    # el intervalo real sera irregular (entre ~1 y varios minutos).
-    - cron: "* * * * *"
+    # Cada 5 minutos. Es el punto justo para el plan gratuito de football-data:
+    # cubre el delay de la API de sobra y GitHub respeta mejor este intervalo
+    # (a menos de 5 min suele saltear/agrupar corridas).
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}   # permite dispararlo a mano desde la pestaña Actions
 
 permissions:
