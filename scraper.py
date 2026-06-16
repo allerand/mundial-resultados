@@ -33,6 +33,7 @@ import csv
 import json
 import os
 import sys
+import time
 import urllib.request
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -167,15 +168,24 @@ def log(msg: str) -> None:
         f.write(line + "\n")
 
 
-def fetch_matches() -> tuple[list[dict], dict]:
-    req = urllib.request.Request(API_URL, headers={"X-Auth-Token": TOKEN})
-    with urllib.request.urlopen(req, timeout=25) as resp:
-        rate = {
-            "available_min": resp.headers.get("x-requests-available-minute"),
-            "reset_s": resp.headers.get("x-requestcounter-reset"),
-        }
-        data = json.loads(resp.read().decode("utf-8"))
-    return data.get("matches", []), rate
+def fetch_matches(retries: int = 3, backoff: float = 3.0) -> tuple[list[dict], dict]:
+    last_err = None
+    for intento in range(1, retries + 1):
+        try:
+            req = urllib.request.Request(API_URL, headers={"X-Auth-Token": TOKEN})
+            with urllib.request.urlopen(req, timeout=25) as resp:
+                rate = {
+                    "available_min": resp.headers.get("x-requests-available-minute"),
+                    "reset_s": resp.headers.get("x-requestcounter-reset"),
+                }
+                data = json.loads(resp.read().decode("utf-8"))
+            return data.get("matches", []), rate
+        except Exception as e:  # noqa: BLE001 -- reintenta ante hipos de red/API
+            last_err = e
+            if intento < retries:
+                log(f"  intento {intento}/{retries} fallo ({e}); reintento en {backoff}s")
+                time.sleep(backoff)
+    raise last_err
 
 
 def ba_dt(utc_iso: str) -> datetime | None:
