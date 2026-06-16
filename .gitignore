@@ -1,0 +1,11 @@
+# Logs y archivos locales (no se versionan)
+data/scraper.log
+data/cron.log
+data/historial.csv
+
+# Nunca commitear la API key
+.env
+*.token
+
+# macOS
+.DS_Store
