@@ -16,7 +16,7 @@ M13   14/06/2026 23:00 Suecia vs Túnez                          5-1     FINISHE
 M14   15/06/2026 16:00 Bélgica vs Egipto                        1-1     FINISHED
 M15   15/06/2026 19:00 Arabia Saudita vs Uruguay                1-1     FINISHED
 M16   15/06/2026 22:00 Irán vs Nueva Zelanda                    2-2     FINISHED
-M17   16/06/2026 16:00 Francia vs Senegal                       3-1     IN_PLAY
+M17   16/06/2026 16:00 Francia vs Senegal                       3-1     FINISHED
 M18   16/06/2026 19:00 Irak vs Noruega                                  TIMED
 M19   16/06/2026 22:00 Argentina vs Argelia                             TIMED
 M20   17/06/2026 01:00 Austria vs Jordania                              TIMED
