@@ -345,8 +345,8 @@
     "visitante_code": "CRO",
     "visitante": "Croacia",
     "goles_local": 2,
-    "goles_visitante": 1,
-    "estado": "IN_PLAY",
+    "goles_visitante": 2,
+    "estado": "PAUSED",
     "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537409
