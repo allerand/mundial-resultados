@@ -330,7 +330,7 @@
     "visitante": "RD del Congo",
     "goles_local": 1,
     "goles_visitante": 1,
-    "estado": "IN_PLAY",
+    "estado": "PAUSED",
     "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537403
