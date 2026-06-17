@@ -328,7 +328,7 @@
     "local": "Portugal",
     "visitante_code": "COD",
     "visitante": "RD del Congo",
-    "goles_local": 0,
+    "goles_local": 1,
     "goles_visitante": 0,
     "estado": "IN_PLAY",
     "categoria": "en_juego",
