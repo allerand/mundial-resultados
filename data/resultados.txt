@@ -20,7 +20,7 @@ M17   16/06/2026 16:00 Francia vs Senegal                       3-1     FINISHED
 M18   16/06/2026 19:00 Irak vs Noruega                          1-4     FINISHED
 M19   16/06/2026 22:00 Argentina vs Argelia                     3-0     FINISHED
 M20   17/06/2026 01:00 Austria vs Jordania                      3-1     FINISHED
-M21   17/06/2026 14:00 Portugal vs RD del Congo                 1-0     IN_PLAY
+M21   17/06/2026 14:00 Portugal vs RD del Congo                 1-1     IN_PLAY
 M22   17/06/2026 17:00 Inglaterra vs Croacia                            TIMED
 M23   17/06/2026 20:00 Ghana vs Panamá                                  TIMED
 M24   17/06/2026 23:00 Uzbekistán vs Colombia                           TIMED
