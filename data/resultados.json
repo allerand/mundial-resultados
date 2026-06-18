@@ -410,8 +410,8 @@
     "visitante": "Bosnia y Herzegovina",
     "goles_local": null,
     "goles_visitante": null,
-    "estado": "TIMED",
-    "categoria": "no_jugado",
+    "estado": "IN_PLAY",
+    "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537335
   },
