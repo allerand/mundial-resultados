@@ -22,7 +22,7 @@ M19   16/06/2026 22:00 Argentina vs Argelia                     3-0     FINISHED
 M20   17/06/2026 01:00 Austria vs Jordania                      3-1     FINISHED
 M21   17/06/2026 14:00 Portugal vs RD del Congo                 1-1     FINISHED
 M22   17/06/2026 17:00 Inglaterra vs Croacia                    4-2     FINISHED
-M23   17/06/2026 20:00 Ghana vs Panamá                          0-0     IN_PLAY
+M23   17/06/2026 20:00 Ghana vs Panamá                          1-0     IN_PLAY
 M24   17/06/2026 23:00 Uzbekistán vs Colombia                           TIMED
 M25   18/06/2026 13:00 República Checa vs Sudáfrica                     TIMED
 M26   18/06/2026 16:00 Suiza vs Bosnia y Herzegovina                    TIMED
