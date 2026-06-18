@@ -362,7 +362,7 @@
     "visitante": "Panamá",
     "goles_local": 0,
     "goles_visitante": 0,
-    "estado": "PAUSED",
+    "estado": "IN_PLAY",
     "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537410
