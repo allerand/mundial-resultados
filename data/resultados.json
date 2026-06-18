@@ -362,8 +362,8 @@
     "visitante": "Panamá",
     "goles_local": 1,
     "goles_visitante": 0,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537410
   },
@@ -378,8 +378,8 @@
     "visitante": "Colombia",
     "goles_local": 1,
     "goles_visitante": 3,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537404
   },
