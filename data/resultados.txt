@@ -27,7 +27,7 @@ M24   17/06/2026 23:00 Uzbekistán vs Colombia                   1-3     FINISHE
 M25   18/06/2026 13:00 República Checa vs Sudáfrica             1-1     FINISHED
 M26   18/06/2026 16:00 Suiza vs Bosnia y Herzegovina            4-1     FINISHED
 M27   18/06/2026 19:00 Canadá vs Catar                          6-0     FINISHED
-M28   18/06/2026 22:00 México vs Corea del Sur                  0-0     PAUSED
+M28   18/06/2026 22:00 México vs Corea del Sur                  0-0     IN_PLAY
 M29   19/06/2026 16:00 Estados Unidos vs Australia                      TIMED
 M30   19/06/2026 19:00 Escocia vs Marruecos                             TIMED
 M31   19/06/2026 21:30 Brasil vs Haití                                  TIMED
