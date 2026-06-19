@@ -442,8 +442,8 @@
     "visitante": "Corea del Sur",
     "goles_local": 1,
     "goles_visitante": 0,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537330
   },
