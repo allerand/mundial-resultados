@@ -474,7 +474,7 @@
     "visitante": "Marruecos",
     "goles_local": 0,
     "goles_visitante": 1,
-    "estado": "PAUSED",
+    "estado": "IN_PLAY",
     "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537342
