@@ -30,7 +30,7 @@ M27   18/06/2026 19:00 Canadá vs Catar                          6-0     FINISHE
 M28   18/06/2026 22:00 México vs Corea del Sur                  1-0     FINISHED
 M29   19/06/2026 16:00 Estados Unidos vs Australia              2-0     FINISHED
 M30   19/06/2026 19:00 Escocia vs Marruecos                     0-1     FINISHED
-M31   19/06/2026 21:30 Brasil vs Haití                          1-0     IN_PLAY
+M31   19/06/2026 21:30 Brasil vs Haití                          2-0     IN_PLAY
 M32   21/06/2026 01:00 Túnez vs Japón                                   TIMED
 M33   20/06/2026 14:00 Países Bajos vs Suecia                           TIMED
 M34   20/06/2026 17:00 Alemania vs Costa de Marfil                      TIMED
