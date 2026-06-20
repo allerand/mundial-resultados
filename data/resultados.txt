@@ -71,7 +71,7 @@ M68   27/06/2026 20:30 Colombia vs Portugal                             TIMED
 M69   27/06/2026 20:30 RD del Congo vs Uzbekistán                       TIMED
 M70   27/06/2026 23:00 Argelia vs Austria                               TIMED
 M71   27/06/2026 23:00 Jordania vs Argentina                            TIMED
-M72   20/06/2026 00:00 Turquía vs Paraguay                      0-1     PAUSED
+M72   20/06/2026 00:00 Turquía vs Paraguay                      0-1     IN_PLAY
 M73   28/06/2026 16:00 None vs None                                     TIMED
 M74   29/06/2026 14:00 None vs None                                     TIMED
 M75   29/06/2026 17:30 None vs None                                     TIMED
