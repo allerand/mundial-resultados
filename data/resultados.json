@@ -520,9 +520,9 @@
     "local": "Países Bajos",
     "visitante_code": "SWE",
     "visitante": "Suecia",
-    "goles_local": 2,
+    "goles_local": 3,
     "goles_visitante": 0,
-    "estado": "PAUSED",
+    "estado": "IN_PLAY",
     "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537359
