@@ -32,7 +32,7 @@ M29   19/06/2026 16:00 Estados Unidos vs Australia              2-0     FINISHED
 M30   19/06/2026 19:00 Escocia vs Marruecos                     0-1     FINISHED
 M31   19/06/2026 21:30 Brasil vs Haití                          3-0     FINISHED
 M32   21/06/2026 01:00 Túnez vs Japón                                   TIMED
-M33   20/06/2026 14:00 Países Bajos vs Suecia                   4-0     IN_PLAY
+M33   20/06/2026 14:00 Países Bajos vs Suecia                   4-1     IN_PLAY
 M34   20/06/2026 17:00 Alemania vs Costa de Marfil                      TIMED
 M35   20/06/2026 21:00 Ecuador vs Curazao                               TIMED
 M36   21/06/2026 22:00 Nueva Zelanda vs Egipto                          TIMED
