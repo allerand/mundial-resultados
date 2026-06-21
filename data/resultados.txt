@@ -37,7 +37,7 @@ M34   20/06/2026 17:00 Alemania vs Costa de Marfil              2-1     FINISHED
 M35   20/06/2026 21:00 Ecuador vs Curazao                       0-0     FINISHED
 M36   21/06/2026 22:00 Nueva Zelanda vs Egipto                          TIMED
 M37   21/06/2026 13:00 España vs Arabia Saudita                 5-0     FINISHED
-M38   21/06/2026 16:00 Bélgica vs Irán                                  TIMED
+M38   21/06/2026 16:00 Bélgica vs Irán                          0-0     IN_PLAY
 M39   21/06/2026 19:00 Uruguay vs Cabo Verde                            TIMED
 M40   22/06/2026 14:00 Argentina vs Austria                             TIMED
 M41   22/06/2026 18:00 Francia vs Irak                                  TIMED
