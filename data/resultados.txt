@@ -2,7 +2,7 @@ ID    FECHA            PARTIDO                                  RES     ESTADO
 ----------------------------------------------------------------------------------------
 M01   11/06/2026 16:00 México vs Sudáfrica                      2-0     FINISHED
 M02   11/06/2026 23:00 Corea del Sur vs República Checa         2-1     FINISHED
-M03   12/06/2026 16:00 Canadá vs Bosnia y Herzegovina                   FINISHED
+M03   12/06/2026 16:00 Canadá vs Bosnia y Herzegovina           1-1     FINISHED
 M04   12/06/2026 22:00 Estados Unidos vs Paraguay               4-1     FINISHED
 M05   13/06/2026 16:00 Catar vs Suiza                           1-1     FINISHED
 M06   13/06/2026 19:00 Brasil vs Marruecos                      1-1     FINISHED
@@ -31,7 +31,7 @@ M28   18/06/2026 22:00 México vs Corea del Sur                  1-0     FINISHE
 M29   19/06/2026 16:00 Estados Unidos vs Australia              2-0     FINISHED
 M30   19/06/2026 19:00 Escocia vs Marruecos                     0-1     FINISHED
 M31   19/06/2026 21:30 Brasil vs Haití                          3-0     FINISHED
-M32   21/06/2026 01:00 Túnez vs Japón                           0-2     PAUSED
+M32   21/06/2026 01:00 Túnez vs Japón                           0-2     IN_PLAY
 M33   20/06/2026 14:00 Países Bajos vs Suecia                   5-1     FINISHED
 M34   20/06/2026 17:00 Alemania vs Costa de Marfil              2-1     FINISHED
 M35   20/06/2026 21:00 Ecuador vs Curazao                       0-0     FINISHED
