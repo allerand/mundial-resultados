@@ -34,7 +34,7 @@ M31   19/06/2026 21:30 Brasil vs Haití                          3-0     FINISHE
 M32   21/06/2026 01:00 Túnez vs Japón                                   TIMED
 M33   20/06/2026 14:00 Países Bajos vs Suecia                   5-1     FINISHED
 M34   20/06/2026 17:00 Alemania vs Costa de Marfil              2-1     FINISHED
-M35   20/06/2026 21:00 Ecuador vs Curazao                       0-0     IN_PLAY
+M35   20/06/2026 21:00 Ecuador vs Curazao                       0-0     FINISHED
 M36   21/06/2026 22:00 Nueva Zelanda vs Egipto                          TIMED
 M37   21/06/2026 13:00 España vs Arabia Saudita                         TIMED
 M38   21/06/2026 16:00 Bélgica vs Irán                                  TIMED
