@@ -618,8 +618,8 @@
     "visitante": "Cabo Verde",
     "goles_local": 2,
     "goles_visitante": 2,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537372
   },
