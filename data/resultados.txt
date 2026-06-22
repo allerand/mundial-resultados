@@ -39,7 +39,7 @@ M36   21/06/2026 22:00 Nueva Zelanda vs Egipto                  1-3     FINISHED
 M37   21/06/2026 13:00 España vs Arabia Saudita                 4-0     FINISHED
 M38   21/06/2026 16:00 Bélgica vs Irán                          0-0     FINISHED
 M39   21/06/2026 19:00 Uruguay vs Cabo Verde                    2-2     FINISHED
-M40   22/06/2026 14:00 Argentina vs Austria                     0-0     IN_PLAY
+M40   22/06/2026 14:00 Argentina vs Austria                     1-0     IN_PLAY
 M41   22/06/2026 18:00 Francia vs Irak                                  TIMED
 M42   22/06/2026 21:00 Noruega vs Senegal                               TIMED
 M43   23/06/2026 00:00 Jordania vs Argelia                              TIMED
