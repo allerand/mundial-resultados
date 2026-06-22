@@ -35,7 +35,7 @@ M32   21/06/2026 01:00 Túnez vs Japón                           0-4     FINISH
 M33   20/06/2026 14:00 Países Bajos vs Suecia                   5-1     FINISHED
 M34   20/06/2026 17:00 Alemania vs Costa de Marfil              2-1     FINISHED
 M35   20/06/2026 21:00 Ecuador vs Curazao                       0-0     FINISHED
-M36   21/06/2026 22:00 Nueva Zelanda vs Egipto                  1-0     IN_PLAY
+M36   21/06/2026 22:00 Nueva Zelanda vs Egipto                  1-0     PAUSED
 M37   21/06/2026 13:00 España vs Arabia Saudita                 4-0     FINISHED
 M38   21/06/2026 16:00 Bélgica vs Irán                          0-0     FINISHED
 M39   21/06/2026 19:00 Uruguay vs Cabo Verde                    2-2     FINISHED
