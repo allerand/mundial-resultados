@@ -43,7 +43,7 @@ M40   22/06/2026 14:00 Argentina vs Austria                     2-0     FINISHED
 M41   22/06/2026 18:00 Francia vs Irak                          3-0     FINISHED
 M42   22/06/2026 21:00 Noruega vs Senegal                       3-2     FINISHED
 M43   23/06/2026 00:00 Jordania vs Argelia                      1-2     FINISHED
-M44   23/06/2026 14:00 Portugal vs Uzbekistán                   3-0     IN_PLAY
+M44   23/06/2026 14:00 Portugal vs Uzbekistán                   4-0     IN_PLAY
 M45   23/06/2026 17:00 Inglaterra vs Ghana                              TIMED
 M46   23/06/2026 20:00 Panamá vs Croacia                                TIMED
 M47   23/06/2026 23:00 Colombia vs RD del Congo                         TIMED
