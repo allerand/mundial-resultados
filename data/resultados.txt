@@ -48,7 +48,7 @@ M45   23/06/2026 17:00 Inglaterra vs Ghana                      0-0     FINISHED
 M46   23/06/2026 20:00 Panamá vs Croacia                        0-1     FINISHED
 M47   23/06/2026 23:00 Colombia vs RD del Congo                 1-0     FINISHED
 M48   24/06/2026 16:00 Suiza vs Canadá                          1-0     IN_PLAY
-M49   24/06/2026 16:00 Bosnia y Herzegovina vs Catar                    LIVE
+M49   24/06/2026 16:00 Bosnia y Herzegovina vs Catar            2-1     IN_PLAY
 M50   24/06/2026 19:00 Marruecos vs Haití                               TIMED
 M51   24/06/2026 19:00 Escocia vs Brasil                                TIMED
 M52   24/06/2026 22:00 Sudáfrica vs Corea del Sur                       TIMED
