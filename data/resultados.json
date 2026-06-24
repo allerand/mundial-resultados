@@ -746,7 +746,7 @@
     "visitante": "RD del Congo",
     "goles_local": null,
     "goles_visitante": null,
-    "estado": "TIMED",
+    "estado": "LIVE",
     "categoria": "no_jugado",
     "minuto": null,
     "api_match_id": 537406
