@@ -46,7 +46,7 @@ M43   23/06/2026 00:00 Jordania vs Argelia                      1-2     FINISHED
 M44   23/06/2026 14:00 Portugal vs Uzbekistán                   5-0     FINISHED
 M45   23/06/2026 17:00 Inglaterra vs Ghana                      0-0     FINISHED
 M46   23/06/2026 20:00 Panamá vs Croacia                        0-1     FINISHED
-M47   23/06/2026 23:00 Colombia vs RD del Congo                 0-0     PAUSED
+M47   23/06/2026 23:00 Colombia vs RD del Congo                         LIVE
 M48   24/06/2026 16:00 Suiza vs Canadá                                  TIMED
 M49   24/06/2026 16:00 Bosnia y Herzegovina vs Catar                    TIMED
 M50   24/06/2026 19:00 Marruecos vs Haití                               TIMED
