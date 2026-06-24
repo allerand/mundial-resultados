@@ -47,7 +47,7 @@ M44   23/06/2026 14:00 Portugal vs Uzbekistán                   5-0     FINISHE
 M45   23/06/2026 17:00 Inglaterra vs Ghana                      0-0     FINISHED
 M46   23/06/2026 20:00 Panamá vs Croacia                        0-1     FINISHED
 M47   23/06/2026 23:00 Colombia vs RD del Congo                 1-0     FINISHED
-M48   24/06/2026 16:00 Suiza vs Canadá                          2-1     IN_PLAY
+M48   24/06/2026 16:00 Suiza vs Canadá                          2-1     FINISHED
 M49   24/06/2026 16:00 Bosnia y Herzegovina vs Catar            3-1     IN_PLAY
 M50   24/06/2026 19:00 Marruecos vs Haití                               TIMED
 M51   24/06/2026 19:00 Escocia vs Brasil                                TIMED
@@ -74,19 +74,19 @@ M71   27/06/2026 23:00 Jordania vs Argentina                            TIMED
 M72   20/06/2026 00:00 Turquía vs Paraguay                      0-1     FINISHED
 M73   28/06/2026 16:00 None vs None                                     TIMED
 M74   29/06/2026 14:00 None vs None                                     TIMED
-M75   29/06/2026 17:30 None vs None                                     TIMED
+M75   29/06/2026 17:30 Alemania vs None                                 TIMED
 M76   29/06/2026 22:00 None vs None                                     TIMED
 M77   30/06/2026 14:00 None vs None                                     TIMED
 M78   30/06/2026 18:00 None vs None                                     TIMED
-M79   30/06/2026 22:00 None vs None                                     TIMED
+M79   30/06/2026 22:00 México vs None                                   TIMED
 M80   01/07/2026 13:00 None vs None                                     TIMED
 M81   01/07/2026 17:00 None vs None                                     TIMED
-M82   01/07/2026 21:00 None vs None                                     TIMED
+M82   01/07/2026 21:00 Estados Unidos vs None                           TIMED
 M83   02/07/2026 16:00 None vs None                                     TIMED
 M84   02/07/2026 20:00 None vs None                                     TIMED
 M85   03/07/2026 00:00 None vs None                                     TIMED
 M86   03/07/2026 15:00 None vs None                                     TIMED
-M87   03/07/2026 19:00 None vs None                                     TIMED
+M87   03/07/2026 19:00 Argentina vs None                                TIMED
 M88   03/07/2026 22:30 None vs None                                     TIMED
 M89   04/07/2026 14:00 None vs None                                     TIMED
 M90   04/07/2026 18:00 None vs None                                     TIMED
