@@ -55,8 +55,8 @@ M52   24/06/2026 22:00 Sudáfrica vs Corea del Sur               1-0     FINISHE
 M53   24/06/2026 22:00 República Checa vs México                0-3     FINISHED
 M54   25/06/2026 17:00 Curazao vs Costa de Marfil               0-2     FINISHED
 M55   25/06/2026 17:00 Ecuador vs Alemania                      2-1     FINISHED
-M56   25/06/2026 20:00 Túnez vs Países Bajos                            TIMED
-M57   25/06/2026 20:00 Japón vs Suecia                                  TIMED
+M56   25/06/2026 20:00 Túnez vs Países Bajos                    0-0     IN_PLAY
+M57   25/06/2026 20:00 Japón vs Suecia                          0-0     IN_PLAY
 M58   25/06/2026 23:00 Turquía vs Estados Unidos                        TIMED
 M59   25/06/2026 23:00 Paraguay vs Australia                            TIMED
 M60   26/06/2026 16:00 Noruega vs Francia                               TIMED
