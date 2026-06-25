@@ -826,8 +826,8 @@
     "visitante": "Corea del Sur",
     "goles_local": 1,
     "goles_visitante": 0,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537332
   },
@@ -842,8 +842,8 @@
     "visitante": "México",
     "goles_local": 0,
     "goles_visitante": 3,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537331
   },
