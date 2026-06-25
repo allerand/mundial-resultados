@@ -40,8 +40,8 @@
     "local": "Canadá",
     "visitante_code": "BIH",
     "visitante": "Bosnia y Herzegovina",
-    "goles_local": 1,
-    "goles_visitante": 1,
+    "goles_local": null,
+    "goles_visitante": null,
     "estado": "FINISHED",
     "categoria": "finalizado",
     "minuto": null,
@@ -858,7 +858,7 @@
     "visitante": "Costa de Marfil",
     "goles_local": null,
     "goles_visitante": null,
-    "estado": "TIMED",
+    "estado": "LIVE",
     "categoria": "no_jugado",
     "minuto": null,
     "api_match_id": 537356
@@ -874,7 +874,7 @@
     "visitante": "Alemania",
     "goles_local": null,
     "goles_visitante": null,
-    "estado": "TIMED",
+    "estado": "LIVE",
     "categoria": "no_jugado",
     "minuto": null,
     "api_match_id": 537355
