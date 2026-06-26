@@ -59,7 +59,7 @@ M56   25/06/2026 20:00 Túnez vs Países Bajos                    1-3     FINISH
 M57   25/06/2026 20:00 Japón vs Suecia                          1-1     FINISHED
 M58   25/06/2026 23:00 Turquía vs Estados Unidos                3-2     FINISHED
 M59   25/06/2026 23:00 Paraguay vs Australia                    0-0     FINISHED
-M60   26/06/2026 16:00 Noruega vs Francia                       1-3     PAUSED
+M60   26/06/2026 16:00 Noruega vs Francia                               LIVE
 M61   26/06/2026 16:00 Senegal vs Irak                          1-0     PAUSED
 M62   26/06/2026 21:00 Cabo Verde vs Arabia Saudita                     TIMED
 M63   26/06/2026 21:00 Uruguay vs España                                TIMED
