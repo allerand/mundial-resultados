@@ -66,7 +66,7 @@ M63   26/06/2026 21:00 Uruguay vs España                        0-1     FINISHE
 M64   27/06/2026 00:00 Nueva Zelanda vs Bélgica                 1-5     FINISHED
 M65   27/06/2026 00:00 Egipto vs Irán                           1-1     FINISHED
 M66   27/06/2026 18:00 Panamá vs Inglaterra                     0-2     FINISHED
-M67   27/06/2026 18:00 Croacia vs Ghana                         2-1     IN_PLAY
+M67   27/06/2026 18:00 Croacia vs Ghana                         2-1     FINISHED
 M68   27/06/2026 20:30 Colombia vs Portugal                             TIMED
 M69   27/06/2026 20:30 RD del Congo vs Uzbekistán                       TIMED
 M70   27/06/2026 23:00 Argelia vs Austria                               TIMED
