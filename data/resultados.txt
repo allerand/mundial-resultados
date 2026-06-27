@@ -62,7 +62,7 @@ M59   25/06/2026 23:00 Paraguay vs Australia                    0-0     FINISHED
 M60   26/06/2026 16:00 Noruega vs Francia                       1-4     FINISHED
 M61   26/06/2026 16:00 Senegal vs Irak                          5-0     FINISHED
 M62   26/06/2026 21:00 Cabo Verde vs Arabia Saudita             0-0     PAUSED
-M63   26/06/2026 21:00 Uruguay vs España                                LIVE
+M63   26/06/2026 21:00 Uruguay vs España                        0-1     PAUSED
 M64   27/06/2026 00:00 Nueva Zelanda vs Bélgica                         TIMED
 M65   27/06/2026 00:00 Egipto vs Irán                                   TIMED
 M66   27/06/2026 18:00 Panamá vs Inglaterra                             TIMED
