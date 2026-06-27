@@ -64,7 +64,7 @@ M61   26/06/2026 16:00 Senegal vs Irak                          5-0     FINISHED
 M62   26/06/2026 21:00 Cabo Verde vs Arabia Saudita             0-0     FINISHED
 M63   26/06/2026 21:00 Uruguay vs España                        0-1     FINISHED
 M64   27/06/2026 00:00 Nueva Zelanda vs Bélgica                 1-5     FINISHED
-M65   27/06/2026 00:00 Egipto vs Irán                           1-2     FINISHED
+M65   27/06/2026 00:00 Egipto vs Irán                           1-1     FINISHED
 M66   27/06/2026 18:00 Panamá vs Inglaterra                             TIMED
 M67   27/06/2026 18:00 Croacia vs Ghana                                 TIMED
 M68   27/06/2026 20:30 Colombia vs Portugal                             TIMED
