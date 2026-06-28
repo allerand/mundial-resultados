@@ -65,29 +65,29 @@ M62   26/06/2026 21:00 Cabo Verde vs Arabia Saudita             0-0     FINISHED
 M63   26/06/2026 21:00 Uruguay vs España                        0-1     FINISHED
 M64   27/06/2026 00:00 Nueva Zelanda vs Bélgica                 1-5     FINISHED
 M65   27/06/2026 00:00 Egipto vs Irán                           1-1     FINISHED
-M66   27/06/2026 18:00 Panamá vs Inglaterra                             TIMED
-M67   27/06/2026 18:00 Croacia vs Ghana                                 TIMED
+M66   27/06/2026 18:00 Panamá vs Inglaterra                     0-2     FINISHED
+M67   27/06/2026 18:00 Croacia vs Ghana                         2-1     FINISHED
 M68   27/06/2026 20:30 Colombia vs Portugal                     0-0     FINISHED
 M69   27/06/2026 20:30 RD del Congo vs Uzbekistán               3-1     FINISHED
 M70   27/06/2026 23:00 Argelia vs Austria                       3-3     FINISHED
 M71   27/06/2026 23:00 Jordania vs Argentina                    1-3     FINISHED
 M72   20/06/2026 00:00 Turquía vs Paraguay                      0-1     FINISHED
-M73   28/06/2026 16:00 Sudáfrica vs Canadá                              2026-06-29 19:00:00Z
+M73   28/06/2026 16:00 Sudáfrica vs Canadá                              TIMED
 M74   29/06/2026 14:00 Brasil vs Japón                                  TIMED
-M75   29/06/2026 17:30 Alemania vs None                                 TIMED
+M75   29/06/2026 17:30 Alemania vs Paraguay                             TIMED
 M76   29/06/2026 22:00 Países Bajos vs Marruecos                        TIMED
-M77   30/06/2026 14:00 Costa de Marfil vs None                          TIMED
-M78   30/06/2026 18:00 None vs None                                     TIMED
-M79   30/06/2026 22:00 México vs None                                   TIMED
-M80   01/07/2026 13:00 None vs None                                     TIMED
-M81   01/07/2026 17:00 None vs None                                     TIMED
+M77   30/06/2026 14:00 Costa de Marfil vs Noruega                       TIMED
+M78   30/06/2026 18:00 Francia vs Suecia                                TIMED
+M79   30/06/2026 22:00 México vs Ecuador                                TIMED
+M80   01/07/2026 13:00 Inglaterra vs RD del Congo                       TIMED
+M81   01/07/2026 17:00 Bélgica vs Senegal                               TIMED
 M82   01/07/2026 21:00 Estados Unidos vs Bosnia y Herzegovina           TIMED
-M83   02/07/2026 16:00 None vs None                                     TIMED
-M84   02/07/2026 20:00 None vs None                                     TIMED
-M85   03/07/2026 00:00 Suiza vs None                                    TIMED
-M86   03/07/2026 15:00 Australia vs None                                TIMED
-M87   03/07/2026 19:00 Argentina vs None                                TIMED
-M88   03/07/2026 22:30 None vs None                                     TIMED
+M83   02/07/2026 16:00 España vs Austria                                TIMED
+M84   02/07/2026 20:00 Portugal vs Croacia                              TIMED
+M85   03/07/2026 00:00 Suiza vs Argelia                                 TIMED
+M86   03/07/2026 15:00 Australia vs Egipto                              TIMED
+M87   03/07/2026 19:00 Argentina vs Cabo Verde                          TIMED
+M88   03/07/2026 22:30 Colombia vs Ghana                                TIMED
 M89   04/07/2026 14:00 None vs None                                     TIMED
 M90   04/07/2026 18:00 None vs None                                     TIMED
 M91   05/07/2026 17:00 None vs None                                     TIMED
