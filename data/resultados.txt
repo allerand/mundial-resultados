@@ -70,7 +70,7 @@ M67   27/06/2026 18:00 Croacia vs Ghana                         2-1     FINISHED
 M68   27/06/2026 20:30 Colombia vs Portugal                     0-0     FINISHED
 M69   27/06/2026 20:30 RD del Congo vs Uzbekistán               3-1     FINISHED
 M70   27/06/2026 23:00 Argelia vs Austria                               LIVE
-M71   27/06/2026 23:00 Jordania vs Argentina                    0-0     IN_PLAY
+M71   27/06/2026 23:00 Jordania vs Argentina                    0-1     IN_PLAY
 M72   20/06/2026 00:00 Turquía vs Paraguay                      0-1     FINISHED
 M73   28/06/2026 16:00 Sudáfrica vs Canadá                              TIMED
 M74   29/06/2026 14:00 Brasil vs Japón                                  TIMED
