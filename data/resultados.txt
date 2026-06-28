@@ -67,8 +67,8 @@ M64   27/06/2026 00:00 Nueva Zelanda vs Bélgica                 1-5     FINISHE
 M65   27/06/2026 00:00 Egipto vs Irán                           1-1     FINISHED
 M66   27/06/2026 18:00 Panamá vs Inglaterra                     0-2     FINISHED
 M67   27/06/2026 18:00 Croacia vs Ghana                         2-1     FINISHED
-M68   27/06/2026 20:30 Colombia vs Portugal                     0-0     PAUSED
-M69   27/06/2026 20:30 RD del Congo vs Uzbekistán               0-1     PAUSED
+M68   27/06/2026 20:30 Colombia vs Portugal                     0-0     IN_PLAY
+M69   27/06/2026 20:30 RD del Congo vs Uzbekistán                       LIVE
 M70   27/06/2026 23:00 Argelia vs Austria                               TIMED
 M71   27/06/2026 23:00 Jordania vs Argentina                            TIMED
 M72   20/06/2026 00:00 Turquía vs Paraguay                      0-1     FINISHED

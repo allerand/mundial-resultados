@@ -1082,7 +1082,7 @@
     "visitante": "Portugal",
     "goles_local": 0,
     "goles_visitante": 0,
-    "estado": "PAUSED",
+    "estado": "IN_PLAY",
     "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537407
@@ -1096,10 +1096,10 @@
     "local": "RD del Congo",
     "visitante_code": "UZB",
     "visitante": "Uzbekistán",
-    "goles_local": 0,
-    "goles_visitante": 1,
-    "estado": "PAUSED",
-    "categoria": "en_juego",
+    "goles_local": null,
+    "goles_visitante": null,
+    "estado": "LIVE",
+    "categoria": "no_jugado",
     "minuto": null,
     "api_match_id": 537408
   },
