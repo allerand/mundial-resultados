@@ -1113,9 +1113,9 @@
     "visitante_code": "AUT",
     "visitante": "Austria",
     "goles_local": 3,
-    "goles_visitante": 2,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "goles_visitante": 3,
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537402
   },
@@ -1130,8 +1130,8 @@
     "visitante": "Argentina",
     "goles_local": 1,
     "goles_visitante": 3,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537401
   },
