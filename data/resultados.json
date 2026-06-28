@@ -1162,8 +1162,8 @@
     "visitante": "Canadá",
     "goles_local": 0,
     "goles_visitante": 1,
-    "estado": "PAUSED",
-    "categoria": "en_juego",
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537417
   },
