@@ -73,7 +73,7 @@ M70   27/06/2026 23:00 Argelia vs Austria                       3-3     FINISHED
 M71   27/06/2026 23:00 Jordania vs Argentina                    1-3     FINISHED
 M72   20/06/2026 00:00 Turquía vs Paraguay                      0-1     FINISHED
 M73   28/06/2026 16:00 Sudáfrica vs Canadá                      0-1     FINISHED
-M74   29/06/2026 14:00 Brasil vs Japón                          1-1     IN_PLAY
+M74   29/06/2026 14:00 Brasil vs Japón                          2-1     IN_PLAY
 M75   29/06/2026 17:30 Alemania vs Paraguay                             TIMED
 M76   29/06/2026 22:00 Países Bajos vs Marruecos                        TIMED
 M77   30/06/2026 14:00 Costa de Marfil vs Noruega                       TIMED
