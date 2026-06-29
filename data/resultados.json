@@ -1178,7 +1178,7 @@
     "visitante": "Japón",
     "goles_local": 0,
     "goles_visitante": 1,
-    "estado": "IN_PLAY",
+    "estado": "PAUSED",
     "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537423
