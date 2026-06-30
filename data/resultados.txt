@@ -76,7 +76,7 @@ M73   28/06/2026 16:00 Sudáfrica vs Canadá                      0-1     FINISH
 M74   29/06/2026 14:00 Brasil vs Japón                          2-1     FINISHED
 M75   29/06/2026 17:30 Alemania vs Paraguay                     4-5     FINISHED
 M76   29/06/2026 22:00 Países Bajos vs Marruecos                3-4     FINISHED
-M77   30/06/2026 14:00 Costa de Marfil vs Noruega               1-2     FINISHED
+M77   30/06/2026 14:00 Costa de Marfil vs Noruega                       TIMED
 M78   30/06/2026 18:00 Francia vs Suecia                                TIMED
 M79   30/06/2026 22:00 México vs Ecuador                                TIMED
 M80   01/07/2026 13:00 Inglaterra vs RD del Congo                       TIMED
