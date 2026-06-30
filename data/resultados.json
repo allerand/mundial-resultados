@@ -1240,7 +1240,7 @@
     "local": "Francia",
     "visitante_code": "SWE",
     "visitante": "Suecia",
-    "goles_local": 0,
+    "goles_local": 1,
     "goles_visitante": 0,
     "estado": "PAUSED",
     "categoria": "en_juego",
