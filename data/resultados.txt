@@ -75,7 +75,7 @@ M72   20/06/2026 00:00 Turquía vs Paraguay                      0-1     FINISHE
 M73   28/06/2026 16:00 Sudáfrica vs Canadá                      0-1     FINISHED
 M74   29/06/2026 14:00 Brasil vs Japón                          2-1     FINISHED
 M75   29/06/2026 17:30 Alemania vs Paraguay                     4-5     FINISHED
-M76   29/06/2026 22:00 Países Bajos vs Marruecos                0-0     IN_PLAY
+M76   29/06/2026 22:00 Países Bajos vs Marruecos                1-0     IN_PLAY
 M77   30/06/2026 14:00 Costa de Marfil vs Noruega                       TIMED
 M78   30/06/2026 18:00 Francia vs Suecia                                TIMED
 M79   30/06/2026 22:00 México vs Ecuador                                TIMED
