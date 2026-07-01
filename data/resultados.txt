@@ -80,7 +80,7 @@ M77   30/06/2026 14:00 Costa de Marfil vs Noruega               1-2     FINISHED
 M78   30/06/2026 18:00 Francia vs Suecia                        3-0     FINISHED
 M79   30/06/2026 22:00 México vs Ecuador                        2-0     FINISHED
 M80   01/07/2026 13:00 Inglaterra vs RD del Congo               2-1     FINISHED
-M81   01/07/2026 17:00 Bélgica vs Senegal                       0-0     IN_PLAY
+M81   01/07/2026 17:00 Bélgica vs Senegal                       0-1     IN_PLAY
 M82   01/07/2026 21:00 Estados Unidos vs Bosnia y Herzegovina           TIMED
 M83   02/07/2026 16:00 España vs Austria                                TIMED
 M84   02/07/2026 20:00 Portugal vs Croacia                              TIMED
