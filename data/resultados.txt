@@ -91,9 +91,9 @@ M88   03/07/2026 22:30 Colombia vs Ghana                                TIMED
 M89   04/07/2026 14:00 Canadá vs Marruecos                              TIMED
 M90   04/07/2026 18:00 Paraguay vs Francia                              TIMED
 M91   05/07/2026 17:00 Brasil vs Noruega                                TIMED
-M92   05/07/2026 21:00 México vs Inglaterra                             TIMED
+M92   05/07/2026 21:00 None vs None                                     TIMED
 M93   06/07/2026 16:00 None vs None                                     TIMED
-M94   06/07/2026 21:00 Estados Unidos vs Bélgica                        TIMED
+M94   06/07/2026 21:00 None vs None                                     TIMED
 M95   07/07/2026 13:00 None vs None                                     TIMED
 M96   07/07/2026 17:00 None vs None                                     TIMED
 M97   09/07/2026 17:00 None vs None                                     TIMED
