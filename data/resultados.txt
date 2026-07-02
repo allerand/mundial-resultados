@@ -82,7 +82,7 @@ M79   (sin asignar)
 M80   01/07/2026 13:00 Inglaterra vs RD del Congo               2-1     FINISHED
 M81   01/07/2026 17:00 Bélgica vs Senegal                       3-2     FINISHED
 M82   01/07/2026 21:00 Estados Unidos vs Bosnia y Herzegovina   2-0     FINISHED
-M83   02/07/2026 16:00 España vs Austria                        2-0     IN_PLAY
+M83   02/07/2026 16:00 España vs Austria                        3-0     IN_PLAY
 M84   02/07/2026 20:00 Portugal vs Croacia                              TIMED
 M85   03/07/2026 00:00 Suiza vs Argelia                                 TIMED
 M86   03/07/2026 15:00 Australia vs Egipto                              TIMED
