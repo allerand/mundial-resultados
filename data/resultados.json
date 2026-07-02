@@ -1247,22 +1247,7 @@
     "minuto": null,
     "api_match_id": 537416
   },
-  "M79": {
-    "match_id": "M79",
-    "fecha_ba": "30/06/2026 22:00",
-    "etapa": "LAST_32",
-    "grupo": null,
-    "local_code": "MEX",
-    "local": "México",
-    "visitante_code": "ECU",
-    "visitante": "Ecuador",
-    "goles_local": 2,
-    "goles_visitante": 0,
-    "estado": "FINISHED",
-    "categoria": "finalizado",
-    "minuto": null,
-    "api_match_id": 537425
-  },
+  "M79": null,
   "M80": {
     "match_id": "M80",
     "fecha_ba": "01/07/2026 13:00",
