@@ -1339,7 +1339,7 @@
     "visitante": "Argelia",
     "goles_local": 1,
     "goles_visitante": 0,
-    "estado": "IN_PLAY",
+    "estado": "PAUSED",
     "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537429
