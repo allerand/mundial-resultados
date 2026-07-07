@@ -1499,7 +1499,7 @@
     "visitante_code": "COL",
     "visitante": "Colombia",
     "goles_local": 0,
-    "goles_visitante": 0,
+    "goles_visitante": 1,
     "estado": "FINISHED",
     "categoria": "finalizado",
     "minuto": null,
