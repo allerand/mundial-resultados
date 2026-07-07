@@ -93,7 +93,7 @@ M90   04/07/2026 18:00 Paraguay vs Francia                      0-1     FINISHED
 M91   05/07/2026 17:00 Brasil vs Noruega                        1-2     FINISHED
 M92   (sin asignar)   
 M93   06/07/2026 16:00 Portugal vs España                       0-1     FINISHED
-M94   06/07/2026 21:00 Estados Unidos vs Bélgica                        TIMED
+M94   06/07/2026 21:00 Estados Unidos vs Bélgica                0-0     IN_PLAY
 M95   07/07/2026 13:00 Argentina vs Egipto                              TIMED
 M96   07/07/2026 17:00 Suiza vs Colombia                                TIMED
 M97   09/07/2026 17:00 Francia vs Marruecos                             TIMED
