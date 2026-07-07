@@ -1500,8 +1500,8 @@
     "visitante": "Colombia",
     "goles_local": 0,
     "goles_visitante": 0,
-    "estado": "FINISHED",
-    "categoria": "finalizado",
+    "estado": "PAUSED",
+    "categoria": "en_juego",
     "minuto": null,
     "api_match_id": 537382
   },
