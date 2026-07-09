@@ -96,7 +96,7 @@ M93   06/07/2026 16:00 Portugal vs España                       0-1     FINISHE
 M94   06/07/2026 21:00 Estados Unidos vs Bélgica                1-4     FINISHED
 M95   07/07/2026 13:00 Argentina vs Egipto                      3-2     FINISHED
 M96   07/07/2026 17:00 Suiza vs Colombia                        4-3     FINISHED
-M97   09/07/2026 17:00 Francia vs Marruecos                             TIMED
+M97   09/07/2026 17:00 Francia vs Marruecos                     0-0     IN_PLAY
 M98   10/07/2026 16:00 España vs Bélgica                                TIMED
 M99   11/07/2026 18:00 Noruega vs Inglaterra                            TIMED
 M100  11/07/2026 22:00 Argentina vs Suiza                               TIMED
