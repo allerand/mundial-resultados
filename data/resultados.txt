@@ -98,7 +98,7 @@ M95   07/07/2026 13:00 Argentina vs Egipto                      3-2     FINISHED
 M96   07/07/2026 17:00 Suiza vs Colombia                        4-3     FINISHED
 M97   09/07/2026 17:00 Francia vs Marruecos                     2-0     FINISHED
 M98   10/07/2026 16:00 España vs Bélgica                        2-1     FINISHED
-M99   11/07/2026 18:00 Noruega vs Inglaterra                    1-1     PAUSED
+M99   11/07/2026 18:00 Noruega vs Inglaterra                    1-1     IN_PLAY
 M100  11/07/2026 22:00 Argentina vs Suiza                               TIMED
 M101  14/07/2026 16:00 Francia vs España                                TIMED
 M102  15/07/2026 16:00 None vs None                                     TIMED
