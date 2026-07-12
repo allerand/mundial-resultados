@@ -1,106 +1,106 @@
 ID    FECHA            PARTIDO                                  RES     ESTADO
 ----------------------------------------------------------------------------------------
-M01   (sin asignar)   
-M02   (sin asignar)   
-M03   (sin asignar)   
-M04   (sin asignar)   
-M05   (sin asignar)   
-M06   (sin asignar)   
-M07   (sin asignar)   
-M08   (sin asignar)   
-M09   (sin asignar)   
-M10   (sin asignar)   
-M11   (sin asignar)   
-M12   (sin asignar)   
-M13   (sin asignar)   
-M14   (sin asignar)   
-M15   (sin asignar)   
-M16   (sin asignar)   
-M17   (sin asignar)   
-M18   (sin asignar)   
-M19   (sin asignar)   
-M20   (sin asignar)   
-M21   (sin asignar)   
-M22   (sin asignar)   
-M23   (sin asignar)   
-M24   (sin asignar)   
-M25   (sin asignar)   
-M26   (sin asignar)   
-M27   (sin asignar)   
-M28   (sin asignar)   
-M29   (sin asignar)   
-M30   (sin asignar)   
-M31   (sin asignar)   
-M32   (sin asignar)   
-M33   (sin asignar)   
-M34   (sin asignar)   
-M35   (sin asignar)   
-M36   (sin asignar)   
-M37   (sin asignar)   
-M38   (sin asignar)   
-M39   (sin asignar)   
-M40   (sin asignar)   
-M41   (sin asignar)   
-M42   (sin asignar)   
-M43   (sin asignar)   
-M44   (sin asignar)   
-M45   (sin asignar)   
-M46   (sin asignar)   
-M47   (sin asignar)   
-M48   (sin asignar)   
-M49   (sin asignar)   
-M50   (sin asignar)   
-M51   (sin asignar)   
-M52   (sin asignar)   
-M53   (sin asignar)   
-M54   (sin asignar)   
-M55   (sin asignar)   
-M56   (sin asignar)   
-M57   (sin asignar)   
-M58   (sin asignar)   
-M59   (sin asignar)   
-M60   (sin asignar)   
-M61   (sin asignar)   
-M62   (sin asignar)   
-M63   (sin asignar)   
-M64   (sin asignar)   
-M65   (sin asignar)   
-M66   (sin asignar)   
-M67   (sin asignar)   
-M68   (sin asignar)   
-M69   (sin asignar)   
-M70   (sin asignar)   
-M71   (sin asignar)   
-M72   (sin asignar)   
-M73   (sin asignar)   
-M74   (sin asignar)   
-M75   (sin asignar)   
-M76   (sin asignar)   
-M77   (sin asignar)   
-M78   (sin asignar)   
+M01   11/06/2026 16:00 México vs Sudáfrica                      2-0     FINISHED
+M02   11/06/2026 23:00 Corea del Sur vs República Checa         2-1     FINISHED
+M03   12/06/2026 16:00 Canadá vs Bosnia y Herzegovina           1-1     FINISHED
+M04   12/06/2026 22:00 Estados Unidos vs Paraguay               4-1     FINISHED
+M05   13/06/2026 16:00 Catar vs Suiza                           1-1     FINISHED
+M06   13/06/2026 19:00 Brasil vs Marruecos                      1-1     FINISHED
+M07   13/06/2026 22:00 Haití vs Escocia                         0-1     FINISHED
+M08   14/06/2026 01:00 Australia vs Turquía                     2-0     FINISHED
+M09   15/06/2026 13:00 España vs Cabo Verde                     0-0     FINISHED
+M10   14/06/2026 14:00 Alemania vs Curazao                      7-1     FINISHED
+M11   14/06/2026 17:00 Países Bajos vs Japón                    2-2     FINISHED
+M12   14/06/2026 20:00 Costa de Marfil vs Ecuador               1-0     FINISHED
+M13   14/06/2026 23:00 Suecia vs Túnez                          5-1     FINISHED
+M14   15/06/2026 16:00 Bélgica vs Egipto                        1-1     FINISHED
+M15   15/06/2026 19:00 Arabia Saudita vs Uruguay                1-1     FINISHED
+M16   15/06/2026 22:00 Irán vs Nueva Zelanda                    2-2     FINISHED
+M17   16/06/2026 16:00 Francia vs Senegal                       3-1     FINISHED
+M18   16/06/2026 19:00 Irak vs Noruega                          1-4     FINISHED
+M19   16/06/2026 22:00 Argentina vs Argelia                     3-0     FINISHED
+M20   17/06/2026 01:00 Austria vs Jordania                      3-1     FINISHED
+M21   17/06/2026 14:00 Portugal vs RD del Congo                 1-1     FINISHED
+M22   17/06/2026 17:00 Inglaterra vs Croacia                    4-2     FINISHED
+M23   17/06/2026 20:00 Ghana vs Panamá                          1-0     FINISHED
+M24   17/06/2026 23:00 Uzbekistán vs Colombia                   1-3     FINISHED
+M25   18/06/2026 13:00 República Checa vs Sudáfrica             1-1     FINISHED
+M26   18/06/2026 16:00 Suiza vs Bosnia y Herzegovina            4-1     FINISHED
+M27   18/06/2026 19:00 Canadá vs Catar                          6-0     FINISHED
+M28   18/06/2026 22:00 México vs Corea del Sur                  1-0     FINISHED
+M29   19/06/2026 16:00 Estados Unidos vs Australia              2-0     FINISHED
+M30   19/06/2026 19:00 Escocia vs Marruecos                     0-1     FINISHED
+M31   19/06/2026 21:30 Brasil vs Haití                          3-0     FINISHED
+M32   21/06/2026 01:00 Túnez vs Japón                           0-4     FINISHED
+M33   20/06/2026 14:00 Países Bajos vs Suecia                   5-1     FINISHED
+M34   20/06/2026 17:00 Alemania vs Costa de Marfil              2-1     FINISHED
+M35   20/06/2026 21:00 Ecuador vs Curazao                       0-0     FINISHED
+M36   21/06/2026 22:00 Nueva Zelanda vs Egipto                  1-3     FINISHED
+M37   21/06/2026 13:00 España vs Arabia Saudita                 4-0     FINISHED
+M38   21/06/2026 16:00 Bélgica vs Irán                          0-0     FINISHED
+M39   21/06/2026 19:00 Uruguay vs Cabo Verde                    2-2     FINISHED
+M40   22/06/2026 14:00 Argentina vs Austria                     2-0     FINISHED
+M41   22/06/2026 18:00 Francia vs Irak                          3-0     FINISHED
+M42   22/06/2026 21:00 Noruega vs Senegal                       3-2     FINISHED
+M43   23/06/2026 00:00 Jordania vs Argelia                      1-2     FINISHED
+M44   23/06/2026 14:00 Portugal vs Uzbekistán                   5-0     FINISHED
+M45   23/06/2026 17:00 Inglaterra vs Ghana                      0-0     FINISHED
+M46   23/06/2026 20:00 Panamá vs Croacia                        0-1     FINISHED
+M47   23/06/2026 23:00 Colombia vs RD del Congo                 1-0     FINISHED
+M48   24/06/2026 16:00 Suiza vs Canadá                          2-1     FINISHED
+M49   24/06/2026 16:00 Bosnia y Herzegovina vs Catar            3-1     FINISHED
+M50   24/06/2026 19:00 Marruecos vs Haití                       4-2     FINISHED
+M51   24/06/2026 19:00 Escocia vs Brasil                        0-3     FINISHED
+M52   24/06/2026 22:00 Sudáfrica vs Corea del Sur               1-0     FINISHED
+M53   24/06/2026 22:00 República Checa vs México                0-3     FINISHED
+M54   25/06/2026 17:00 Curazao vs Costa de Marfil               0-2     FINISHED
+M55   25/06/2026 17:00 Ecuador vs Alemania                      2-1     FINISHED
+M56   25/06/2026 20:00 Túnez vs Países Bajos                    1-3     FINISHED
+M57   25/06/2026 20:00 Japón vs Suecia                          1-1     FINISHED
+M58   25/06/2026 23:00 Turquía vs Estados Unidos                3-2     FINISHED
+M59   25/06/2026 23:00 Paraguay vs Australia                    0-0     FINISHED
+M60   26/06/2026 16:00 Noruega vs Francia                       1-4     FINISHED
+M61   26/06/2026 16:00 Senegal vs Irak                          5-0     FINISHED
+M62   26/06/2026 21:00 Cabo Verde vs Arabia Saudita             0-0     FINISHED
+M63   26/06/2026 21:00 Uruguay vs España                        0-1     FINISHED
+M64   27/06/2026 00:00 Nueva Zelanda vs Bélgica                 1-5     FINISHED
+M65   27/06/2026 00:00 Egipto vs Irán                           1-1     FINISHED
+M66   27/06/2026 18:00 Panamá vs Inglaterra                     0-2     FINISHED
+M67   27/06/2026 18:00 Croacia vs Ghana                         2-1     FINISHED
+M68   27/06/2026 20:30 Colombia vs Portugal                     0-0     FINISHED
+M69   27/06/2026 20:30 RD del Congo vs Uzbekistán               3-1     FINISHED
+M70   27/06/2026 23:00 Argelia vs Austria                       3-3     FINISHED
+M71   27/06/2026 23:00 Jordania vs Argentina                    1-3     FINISHED
+M72   20/06/2026 00:00 Turquía vs Paraguay                      0-1     FINISHED
+M73   28/06/2026 16:00 Sudáfrica vs Canadá                      0-1     FINISHED
+M74   29/06/2026 14:00 Brasil vs Japón                          2-1     FINISHED
+M75   29/06/2026 17:30 Alemania vs Paraguay                     4-5     FINISHED
+M76   29/06/2026 22:00 Países Bajos vs Marruecos                3-4     FINISHED
+M77   30/06/2026 14:00 Costa de Marfil vs Noruega               1-2     FINISHED
+M78   30/06/2026 18:00 Francia vs Suecia                        3-0     FINISHED
 M79   (sin asignar)   
-M80   (sin asignar)   
-M81   (sin asignar)   
-M82   (sin asignar)   
-M83   (sin asignar)   
-M84   (sin asignar)   
-M85   (sin asignar)   
-M86   (sin asignar)   
-M87   (sin asignar)   
-M88   (sin asignar)   
-M89   (sin asignar)   
-M90   (sin asignar)   
-M91   (sin asignar)   
+M80   01/07/2026 13:00 Inglaterra vs RD del Congo               2-1     FINISHED
+M81   01/07/2026 17:00 Bélgica vs Senegal                       3-2     FINISHED
+M82   01/07/2026 21:00 Estados Unidos vs Bosnia y Herzegovina   2-0     FINISHED
+M83   02/07/2026 16:00 España vs Austria                        3-0     FINISHED
+M84   02/07/2026 20:00 Portugal vs Croacia                      2-1     FINISHED
+M85   03/07/2026 00:00 Suiza vs Argelia                         2-0     FINISHED
+M86   03/07/2026 15:00 Australia vs Egipto                      3-5     FINISHED
+M87   03/07/2026 19:00 Argentina vs Cabo Verde                  3-2     FINISHED
+M88   03/07/2026 22:30 Colombia vs Ghana                        1-0     FINISHED
+M89   04/07/2026 14:00 Canadá vs Marruecos                      0-3     FINISHED
+M90   04/07/2026 18:00 Paraguay vs Francia                      0-1     FINISHED
+M91   05/07/2026 17:00 Brasil vs Noruega                        1-2     FINISHED
 M92   (sin asignar)   
-M93   (sin asignar)   
-M94   (sin asignar)   
-M95   (sin asignar)   
-M96   (sin asignar)   
-M97   (sin asignar)   
-M98   (sin asignar)   
-M99   (sin asignar)   
-M100  (sin asignar)   
-M101  (sin asignar)   
-M102  (sin asignar)   
-M103  (sin asignar)   
-M104  (sin asignar)   
+M93   06/07/2026 16:00 Portugal vs España                       0-1     FINISHED
+M94   06/07/2026 21:00 Estados Unidos vs Bélgica                1-4     FINISHED
+M95   07/07/2026 13:00 Argentina vs Egipto                      3-2     FINISHED
+M96   07/07/2026 17:00 Suiza vs Colombia                        4-3     FINISHED
+M97   09/07/2026 17:00 Francia vs Marruecos                     2-0     FINISHED
+M98   10/07/2026 16:00 España vs Bélgica                        2-1     FINISHED
+M99   11/07/2026 18:00 Noruega vs Inglaterra                    1-2     FINISHED
+M100  11/07/2026 22:00 Argentina vs Suiza                       3-1     FINISHED
+M101  14/07/2026 16:00 Francia vs España                                TIMED
+M102  15/07/2026 16:00 Inglaterra vs Argentina                          TIMED
+M103  18/07/2026 18:00 None vs None                                     TIMED
+M104  19/07/2026 16:00 None vs None                                     TIMED
