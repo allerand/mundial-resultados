@@ -1564,8 +1564,8 @@
     "visitante": "Suiza",
     "goles_local": 3,
     "goles_visitante": 1,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537386
   },
