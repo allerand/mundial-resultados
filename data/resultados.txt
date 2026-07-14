@@ -100,7 +100,7 @@ M97   09/07/2026 17:00 Francia vs Marruecos                     2-0     FINISHED
 M98   10/07/2026 16:00 España vs Bélgica                        2-1     FINISHED
 M99   11/07/2026 18:00 Noruega vs Inglaterra                    1-2     FINISHED
 M100  11/07/2026 22:00 Argentina vs Suiza                       3-1     FINISHED
-M101  14/07/2026 16:00 Francia vs España                        0-1     IN_PLAY
+M101  14/07/2026 16:00 Francia vs España                        0-1     PAUSED
 M102  15/07/2026 16:00 Inglaterra vs Argentina                          TIMED
 M103  18/07/2026 18:00 None vs None                                     TIMED
 M104  19/07/2026 16:00 None vs None                                     TIMED
