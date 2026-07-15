@@ -1594,7 +1594,7 @@
     "local": "Inglaterra",
     "visitante_code": "ARG",
     "visitante": "Argentina",
-    "goles_local": 0,
+    "goles_local": 1,
     "goles_visitante": 0,
     "estado": "IN_PLAY",
     "categoria": "en_juego",
