@@ -1611,9 +1611,9 @@
     "visitante_code": "ENG",
     "visitante": "Inglaterra",
     "goles_local": 4,
-    "goles_visitante": 5,
-    "estado": "IN_PLAY",
-    "categoria": "en_juego",
+    "goles_visitante": 6,
+    "estado": "FINISHED",
+    "categoria": "finalizado",
     "minuto": null,
     "api_match_id": 537389
   },
