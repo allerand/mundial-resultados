@@ -102,5 +102,5 @@ M99   11/07/2026 18:00 Noruega vs Inglaterra                    1-2     FINISHED
 M100  11/07/2026 22:00 Argentina vs Suiza                       3-1     FINISHED
 M101  14/07/2026 16:00 Francia vs España                        0-2     FINISHED
 M102  15/07/2026 16:00 Inglaterra vs Argentina                  1-2     FINISHED
-M103  18/07/2026 18:00 Francia vs Inglaterra                    0-4     IN_PLAY
+M103  18/07/2026 18:00 Francia vs Inglaterra                    1-4     IN_PLAY
 M104  19/07/2026 16:00 España vs Argentina                              TIMED
