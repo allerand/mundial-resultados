@@ -1626,10 +1626,10 @@
     "local": "España",
     "visitante_code": "ARG",
     "visitante": "Argentina",
-    "goles_local": 0,
-    "goles_visitante": 0,
-    "estado": "PAUSED",
-    "categoria": "en_juego",
+    "goles_local": null,
+    "goles_visitante": null,
+    "estado": "EXTRA_TIME",
+    "categoria": "no_jugado",
     "minuto": null,
     "api_match_id": 537390
   }
