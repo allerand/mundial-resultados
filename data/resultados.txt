@@ -103,4 +103,4 @@ M100  11/07/2026 22:00 Argentina vs Suiza                       3-1     FINISHED
 M101  14/07/2026 16:00 Francia vs España                        0-2     FINISHED
 M102  15/07/2026 16:00 Inglaterra vs Argentina                  1-2     FINISHED
 M103  18/07/2026 18:00 Francia vs Inglaterra                    4-6     FINISHED
-M104  19/07/2026 16:00 España vs Argentina                              LIVE
+M104  19/07/2026 16:00 España vs Argentina                      0-0     IN_PLAY
